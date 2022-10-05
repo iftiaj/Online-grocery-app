@@ -10,6 +10,7 @@ Order page
 ![image](https://user-images.githubusercontent.com/83780426/194112894-d71281a3-1de4-43b3-9ebd-c760d9217dab.png)
 
 Cart page
+
 ![image](https://user-images.githubusercontent.com/83780426/194112979-5cdcd0f7-cfd4-473d-8dad-349aa40e3671.png)
 
 Admin login page
