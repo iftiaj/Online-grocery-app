@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/BIC2213 Iftiaj Alom 1001956759 code/app/src/main/res/drawable/bg_test.xml" value="0.114" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/BIC2213 Iftiaj Alom 1001956759 code/app/src/main/res/drawable/bg_window.xml" value="0.232" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/BIC2213 Iftiaj Alom 1001956759 code/app/src/main/res/drawable/btn_bg.xml" value="0.114" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/BIC2213 Iftiaj Alom 1001956759 code/app/src/main/res/drawable/cart_background.xml" value="0.114" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/BIC2213 Iftiaj Alom 1001956759 code/app/src/main/res/layout/activity_intro.xml" value="0.1" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/drawable-ldpi/ic_location.xml" value="0.1395" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1255" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/drawable-v24/ic_password.xml" value="0.1295" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/drawable-v24/ic_person.xml" value="0.2025" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/drawable-v24/input_bg.xml" value="0.2025" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/drawable/cart_background.xml" value="0.1255" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/drawable/cat_background1.xml" value="0.1255" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/drawable/cat_background2.xml" value="0.1255" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/drawable/cat_background3.xml" value="0.1255" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/drawable/cat_background4.xml" value="0.1255" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/drawable/cat_background5.xml" value="0.1255" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/drawable/gfgimage.xml" value="0.121" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1255" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/drawable/light_banner.xml" value="0.12" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/drawable/orange_button.xml" value="0.2555" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/drawable/orange_light_banner.xml" value="0.1295" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/drawable/search_background.xml" value="0.1295" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/drawable/viewholder_popular.xml" value="0.1" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/layout/activity_add_new_user.xml" value="0.2" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/layout/activity_admin.xml" value="0.176" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/layout/activity_cart_list.xml" value="0.14912280701754385" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/layout/activity_customer_reg.xml" value="0.16216216216216217" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/layout/activity_intro.xml" value="0.2" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/layout/activity_product.xml" value="0.14087837837837838" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/layout/activity_registration.xml" value="0.176" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/layout/activity_show_detail.xml" value="0.16216216216216217" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/layout/activity_user_profile.xml" value="0.152" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/layout/layout_custom_dialog.xml" value="0.2" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/layout/recycler_row.xml" value="0.16216216216216217" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/layout/viewholder_cart.xml" value="0.176" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/layout/viewholder_category.xml" value="0.16216216216216217" />
+        <entry key="..\:/File Storage/Mobile Programming tutorials n assignments/android apps new/Assignment/app/src/main/res/layout/viewholder_popular.xml" value="0.16216216216216217" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
